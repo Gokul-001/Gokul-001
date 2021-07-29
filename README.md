@@ -6,7 +6,7 @@
 <p align="left">
 
 <a href="https://twitter.com/gokul13628478" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gokul13628478" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rahuldkjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahuldkjain" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gokul-k-s-578a86213" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gokul-k-s-578a86213" height="30" width="40" /></a>
 <a href="https://instagram.com/_server_error_404" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_server_error_404" height="30" width="40" /></a>
 </p>
 
