@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gokul KS </h1>
-<h3 align="center">🚀DO ANYTHING !🚀 </h3>
+<h3 align="center">💥DO ANYTHING 💥 </h3>
+<h4>Studing at St.josephs collage of engineering(ECE)</h4>
+<h4> Intrested on AI,ML,DATA SCIENCE,ELECTRONICS etc</h4>
 
-- 📫 Reach me at **gokul3krish2@gmail.com**
+- Reachme at gokul3krish2@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
