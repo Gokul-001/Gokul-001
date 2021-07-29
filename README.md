@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gokul KS </h1>
-<h3 align="center">💥DO ANYTHING 💥 </h3>
+<h3 align="center">💥𝘿𝙊 𝘼𝙉𝙔𝙏𝙃𝙄𝙉𝙂❗ 💥 </h3>
 <h4>Studing at St.josephs collage of engineering(ECE)</h4>
 <h4> Intrested on AI,ML,DATA SCIENCE,ELECTRONICS etc</h4>
 
