@@ -11,7 +11,7 @@
 
 <a href="https://twitter.com/gokul13628478" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gokul13628478" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gokul-k-s-578a86213" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gokul-k-s-578a86213" height="30" width="40" /></a>
-<a href="https://www.instagram.com/x_go.cool_x" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="x_go.cool_x" height="30" width="40" /></a>
+<a href="https://www.instagram.com/x.go_cool.x" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="x_go.cool_x" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Skills:</h3>
