@@ -19,5 +19,5 @@
     <a href="https://g.co/kgs/P4d9ok" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="C" width="40" height="40"/> </a>
     <a href="https://g.co/kgs/wbsJL3" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="40" height="40"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> 
-    <a href="https://www.google.com/search?q=sql&oq=sql&aqs=edge.0.69i59l4j0i67l2j69i60l3.904j0j1&sourceid=chrome&ie=UTF-8" target="_blank"> <img src="https://cdn2.iconfinder.com/data/icons/programming-50/64/206_programming-sql-data-database-512.png" alt="SQL" width="50" height="50"/> </a>
+    <a href="https://www.google.com/search?q=sql&oq=sql&aqs=edge.0.69i59l4j0i67l2j69i60l3.904j0j1&sourceid=chrome&ie=UTF-8" target="_blank"> <img src="https://icones.pro/wp-content/uploads/2021/05/icone-base-donnees-orange.png" alt="SQL" width="45" height="45"/> </a>
     </p>
