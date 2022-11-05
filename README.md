@@ -10,8 +10,8 @@
 <p align="left">
 
 
-<a href="https://linkedin.com/in/gokul-k-s-578a86213" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gokul-k-s-578a86213" height="30" width="40" /></a>
-<a href="https://www.instagram.com/x.go_cool.x" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="x_go.cool_x" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gokul-k-s-578a86213" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-icon-png.png" alt="gokul-k-s-578a86213" height="35" width="35" /> </a> 
+<a href="https://www.instagram.com/x.go_cool.x" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-logo-white-full-gradient-colour-background.png" alt="x_go.cool_x" height="35" width="35" /></a>
 </p>
 
 <h3 align="left">Languages and Skills:</h3>
