@@ -2,7 +2,7 @@
 <h3 align="center">𝘿𝙊 𝘼𝙉𝙔𝙏𝙃𝙄𝙉𝙂 ❗ </h3>
 <h3>AI is a Tool,The choice about how it gets deployed is ours👨‍💻</h3>
 <h4>Studing at St.josephs college of engineering ( ECE )</h4>
-<h4> Intrested on AI,ML,DATA SCIENCE,ELECTRONICS etc</h4>
+<h4> Intrested on AI, ML, DATA SCIENCE, ELECTRONICS etc</h4>
 
 - Reachme at gokul3krish2@gmail.com
 
