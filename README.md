@@ -14,7 +14,7 @@
 <a href="https://www.instagram.com/x.go_cool.x" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-logo-white-full-gradient-colour-background.png" alt="x_go.cool_x" height="35" width="35" /></a>
 </p>
 
-<h3 align="left">Languages and Skills:</h3>
+<h3 align="left"> Skills:</h3>
 <p align="left">
     <a href="https://g.co/kgs/P4d9ok" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="C" width="40" height="40"/> </a> 
     <a href="https://g.co/kgs/wbsJL3" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="40" height="40"/> </a>
