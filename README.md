@@ -13,7 +13,7 @@
 <a href="https://linkedin.com/in/gokul-k-s-578a86213" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-icon-png.png" alt="gokul-k-s-578a86213" height="35" width="35" /> </a> 
 <a href="https://www.instagram.com/x.go_cool.x" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-logo-white-full-gradient-colour-background.png" alt="x_go.cool_x" height="35" width="35" /></a>
 <a href="https://discord.gg/DYno%20X%20Sparky#7652" target="blank"><img align="center" src="https://img.icons8.com/fluency/512/discord-logo.png" alt="Discord" height="45" width="45" /></a>
-<a href="https://linktr.ee/gokul_ks" target="blank"><img align="center" src="https://seeklogo.com/images/L/linktree-logo-6FC3ADB679-seeklogo.com.png" alt="Linktree" height="35" width="35" /></a>
+
 </p>
 
 <h3 align="left"> Skills :</h3>
