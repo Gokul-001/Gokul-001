@@ -22,6 +22,5 @@
     <a href="https://g.co/kgs/wbsJL3" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="40" height="40"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="python" width="35" height="40"/> </a> 
     <a href="https://www.google.com/search?q=sql&oq=sql&aqs=edge.0.69i59l4j0i67l2j69i60l3.904j0j1&sourceid=chrome&ie=UTF-8" target="_blank"> <img src="https://icones.pro/wp-content/uploads/2021/05/icone-base-donnees-orange.png" alt="SQL" width="40" height="40"/> </a>
-     <a href="https://in.mathworks.com/products/matlab.html" target="_blank"> <img src="https://img.icons8.com/fluency/512/matlab.png" alt="MatLab" width="45" height="45"/> </a> 
-     <a href="https://www.arduino.cc" target="_blank"> <img src="https://seeklogo.com/images/A/arduino-logo-5B8F98793E-seeklogo.com.png" alt="Arduino" width="40" height="40"/> </a> 
+    <a href="https://www.arduino.cc" target="_blank"> <img src="https://seeklogo.com/images/A/arduino-logo-5B8F98793E-seeklogo.com.png" alt="Arduino" width="40" height="40"/> </a> 
     </p>
