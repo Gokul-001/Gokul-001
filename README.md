@@ -12,7 +12,7 @@
   <a href="https://www.instagram.com/x.go_cool.x/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="65" height="25" alt="instagram logo"  />
   </a>
-  <a href="dyno_x_sparky" target="_blank">
+  <a href="https://discord.gg/DYno%20X%20Sparky#7652" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="65" height="25" alt="discord logo"  />
   </a>
 </div>
