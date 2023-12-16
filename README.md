@@ -1,26 +1,118 @@
-<h1 align="center">Hi 👋  I'm Gokul KS </h1>
-<h3 align="center">𝘿𝙊 𝘼𝙉𝙔𝙏𝙃𝙄𝙉𝙂 ❗ </h3>
-<h3>AI is a Tool,The choice about how it gets deployed is ours👨‍💻</h3>
-<h4>Studying at St.josephs college of engineering ( ECE )</h4>
-<h4> Intrested in AI, ML, DATA SCIENCE, ELECTRONICS etc</h4>
+<h1 align="center">Heyyo👋 I'm Gokul KS</h1>
 
-- Reachme at gokul3krish2@gmail.com
+###
 
-<h3 align="left">Connect with me :</h3>
-<p align="left">
+<div align="center">
+  <a href="https://www.linkedin.com/in/gokul-k-s-/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="www.gokul3krish2@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="65" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/x.go_cool.x/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="65" height="25" alt="instagram logo"  />
+  </a>
+  <a href="dyno_x_sparky" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="65" height="25" alt="discord logo"  />
+  </a>
+</div>
 
+###
 
-<a href="https://linkedin.com/in/gokul-k-s-578a86213" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-icon-png.png" alt="gokul-k-s-578a86213" height="35" width="35" /> </a> 
-<a href="https://www.instagram.com/x.go_cool.x" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-logo-white-full-gradient-colour-background.png" alt="x_go.cool_x" height="35" width="35" /></a>
-<a href="https://discord.gg/DYno%20X%20Sparky#7652" target="blank"><img align="center" src="https://img.icons8.com/fluency/512/discord-logo.png" alt="Discord" height="45" width="45" /></a>
+<h2 align="center">About me</h2>
 
-</p>
+###
 
-<h3 align="left"> Skills :</h3>
-<p align="left">
-    <a href="https://g.co/kgs/P4d9ok" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="C" width="40" height="40"/> </a> 
-    <a href="https://g.co/kgs/wbsJL3" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="40" height="40"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="python" width="35" height="40"/> </a> 
-    <a href="https://www.google.com/search?q=sql&oq=sql&aqs=edge.0.69i59l4j0i67l2j69i60l3.904j0j1&sourceid=chrome&ie=UTF-8" target="_blank"> <img src="https://icones.pro/wp-content/uploads/2021/05/icone-base-donnees-orange.png" alt="SQL" width="40" height="40"/> </a>
-    <a href="https://www.arduino.cc" target="_blank"> <img src="https://seeklogo.com/images/A/arduino-logo-5B8F98793E-seeklogo.com.png" alt="Arduino" width="40" height="40"/> </a> 
-    </p>
+<p align="left">✨  Navigating the binary galaxy with ease🌌<br><br>📚 Advancing AI, Coding and problem-solving in DSA 👨‍💻<br><br>🎲 When not wrangling data or crafting code, you can catch me pondering the mysteries of the universe—like why do programmers prefer dark mode?</p>
+
+###
+
+<h2 align="center">Tech Stack</h2>
+
+###
+
+<h5 align="left">Programming Languages :</h5>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+</div>
+
+###
+
+<h5 align="left">AI / ML :</h5>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+</div>
+
+###
+
+<h5 align="left">Database :</h5>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+</div>
+
+###
+
+<h5 align="left">Tools :</h5>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+</div>
+
+###
+
+<h5 align="left">Operating system :</h5>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Gokul-001/Gokul-001/output/snake.svg" alt="Snake animation" />
+
+###
