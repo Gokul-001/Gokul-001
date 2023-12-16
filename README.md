@@ -111,8 +111,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/Gokul-001/Gokul-001/output/snake.svg" alt="Snake animation" />
+<h3 align="center">Pinned Repo 👇</h3>
 
 ###
+
+
