@@ -3,13 +3,13 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/gokul-k-s-/" target="_blank">
+  <a href="https://www.linkedin.com/in/gokul-k-s-/" target="blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="25" alt="linkedin logo"  />
   </a>
-  <a href="www.gokul3krish2@gmail.com" target="_blank">
+  <a href="www.gokul3krish2@gmail.com" target=" blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="65" height="25" alt="gmail logo"  />
   </a>
-  <a href="https://www.instagram.com/x.go_cool.x/" target="_blank">
+  <a href="https://www.instagram.com/x.go_cool.x/" target="blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="65" height="25" alt="instagram logo"  />
   </a>
   <a href="https://discord.gg/DYno%20X%20Sparky#7652" target="_blank">
@@ -43,8 +43,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
 </div>
