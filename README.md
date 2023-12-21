@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">✨  Navigating the binary galaxy with ease🌌<br><br>📚 Advancing AI, Coding and problem-solving in DSA 👨‍💻<br><br>🎲 When not wrangling data or crafting code, you can catch me pondering the mysteries of the universe—like why do programmers prefer dark mode ❓<br></br>📧 Reach me at : www.gokul3krish2@gmail.com <br></p>
+<p align="left">✨  Navigating the binary galaxy with ease🌌<br><br>📚 Advancing AI, Coding and problem-solving in DSA 👨‍💻<br><br>🎲 When not wrangling data or crafting code, you can catch me pondering the mysteries of the universe—like why do programmers prefer dark mode 🤔<br></br>📧 Reach me at : www.gokul3krish2@gmail.com <br></p>
 
 ###
 
